@@ -1,3 +1,4 @@
+add something for B3		
 # -*- coding: cp936 -*- 
 from django.shortcuts import render,render_to_response
 from django.http import HttpResponse,HttpResponseRedirect
