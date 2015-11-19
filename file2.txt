@@ -28,3 +28,5 @@ urlpatterns = patterns('',
 
 
 )
+
+add an another change for B2
