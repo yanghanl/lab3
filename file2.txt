@@ -1,3 +1,4 @@
+add something in file2 for C4
 # -*- coding: cp936 -*- 
 from django.conf.urls import patterns, include, url
 from django.contrib import admin

@@ -1,3 +1,4 @@
+add a new line:for C4
 # Django settings for lab3 project.
 
 DEBUG = True
